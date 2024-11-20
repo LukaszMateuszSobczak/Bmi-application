@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bmi calculator</string>
+    <string name="text_weight">Weight</string>
+    <string name="text_weight_unit">kg</string>
+    <string name="text_height">Height</string>
+    <string name="text_height_unit">cm</string>
+    <string name="text_gender">Gender</string>
+    <string name="text_male">Male</string>
+    <string name="text_female">Female</string>
+    <string name="text_age">Age</string>
+    <string name="text_age_unit">years</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal_weight">Normal weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="adiposity">Adiposity</string>
+    <string name="severe_adiposity">Severe adiposity</string>
+    <string name="text_result">%s %s</string>
+</resources>
